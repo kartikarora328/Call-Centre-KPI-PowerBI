@@ -1,0 +1,28 @@
+# ============================
+# Power BI Project - .gitignore
+# ============================
+
+# Power BI / temporary files
+*.pbix.autosave
+*.pbix.backup
+*.tmp
+*.log
+
+# OS and system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# System cache
+__pycache__/
+*.cache
+*.bak
+
+# Archive files
+*.zip
+*.rar
+*.7z
